@@ -1,0 +1,15 @@
+{
+    "notice":[
+        {"title":"notice 1" ,"id":1,"details":"notice details Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quos assumenda vero. Ullam nemo illum, similique repellat blanditiis, tenetur veritatis rerum perspiciatis pariatur maiores tempora, corrupti unde vel earum. Earum! "},
+        {"title":"notice 2" ,"id":2,"details":"notice detailsLorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quos assumenda vero. Ullam nemo illum, similique repellat blanditiis, tenetur veritatis rerum perspiciatis pariatur maiores tempora, corrupti unde vel earum. Earum! "},
+        {"title":"notice 3" ,"id":3,"details":"notice detailsLorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quos assumenda vero. Ullam nemo illum, similique repellat blanditiis, tenetur veritatis rerum perspiciatis pariatur maiores tempora, corrupti unde vel earum. Earum! "},
+        {"title":"notice 4" ,"id":4,"details":"notice details "},
+        {"title":"notice 5" ,"id":5,"details":"notice details "},
+        {"title":"notice 6" ,"id":6,"details":"notice details Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quos assumenda vero. Ullam nemo illum, similique repellat blanditiis, tenetur veritatis rerum perspiciatis pariatur maiores tempora, corrupti unde vel earum. Earum!"},
+        {"title":"notice 7 with image" ,"id":7,"details":"notice details ","image":"https://picsum.photos/id/238/200/300"},
+        {"title":"notice 8" ,"id":8,"details":"notice details "},
+        {"title":"notice 9" ,"id":9,"details":"notice details "},
+        {"title":"notice 10" ,"id":10,"details":"notice details "},
+        {"title":"notice 11 with image" ,"id":11,"details":"image " ,"image":"https://picsum.photos/seed/car/200/300"}
+    ]
+}
